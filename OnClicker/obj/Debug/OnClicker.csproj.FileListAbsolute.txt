@@ -1,0 +1,14 @@
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\scripts\HelloDuoCode.dll.config
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\scripts\HelloDuoCode.dll
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\scripts\HelloDuoCode.pdb
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\scripts\HelloDuoCode.js
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\scripts\HelloDuoCode.min.js
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\scripts\HelloDuoCode.js.map
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\scripts\HelloDuoCode.d.ts
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\scripts\HelloDuoCode.xml
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\scripts\mscorlib.js
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\scripts\mscorlib.min.js
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\scripts\mscorlib.d.ts
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\obj\Debug\OnClicker.csprojResolveAssemblyReference.cache
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\obj\Debug\HelloDuoCode.dll
+D:\Project\DuoCode\OnlineClicker\OnClicker\OnClicker\obj\Debug\HelloDuoCode.pdb
