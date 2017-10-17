@@ -1,2 +1,3 @@
-# duoCode_onlineClicker
-Example of simple online clicker writen on clean C# using DuoCode.
+Clicker#
+Simple "game" what was writed to try DuoCode.
+Source Code can be helpfull becouse have code working with HTML5 Canvas.
